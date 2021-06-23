@@ -56,15 +56,15 @@ http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
                                                                     " BANGLA NEWS "
                                                                     
 
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" group-title="BANGLA NEWS",CHANNEL 24
 http://103.205.133.19/hls/channel24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="BANGLA",DBC News
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="BANGLA NEWS",DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",EKATTOR TV
+#EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA NEWS",EKATTOR TV
 https://piratesiptv.shortcm.li/ekatoor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV	" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLA",JAMUNA TV	
+#EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV	" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLA NEWS",JAMUNA TV	
 https://piratesiptv.shortcm.li/jamuna.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="https://bdiptv.stream/uploads/tv_image/news-24.png" group-title="BANGLA",News 24
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="https://bdiptv.stream/uploads/tv_image/news-24.png" group-title="BANGLA NEWS",News 24
 http://103.205.133.19/hls/news24.m3u8
                                                                      
                                                                      

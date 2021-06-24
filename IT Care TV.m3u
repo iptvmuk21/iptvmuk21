@@ -246,6 +246,24 @@ http://stream.atr.ua/lale//live/index.m3u8
 
 
 
+
+                                                              " DOCUMENTERY "
+                                                              
+                                                              
+                                                              
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,National Geographic
+http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,Travel XP HD
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,75.TLC HD
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8                                                            
+
+
+
                                                                         "CARTOON"
 
 
@@ -319,6 +337,8 @@ http://103.205.133.19/hls/arymusic.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="MUSIC",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="MUSIC",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 
 

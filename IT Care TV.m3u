@@ -8,8 +8,14 @@
 http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/311px-ATN_Bangla.svg.png" group-title="BANGLA",ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png" group-title="BANGLA",ANANDA TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV " tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="BANGLA",BTV 
 http://103.205.133.19/hls/btv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV WORLD" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA",BTV WORLD
+https://rhridoy136.shortcm.li/btvworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SANGSAD TV" tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",SANGSAD TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bangla Vision" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" group-title="BANGLA",Bangla Vision
 http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bijoy Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="BANGLA",Bijoy Tv
@@ -19,9 +25,11 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="BANGLA",Channel I
 http://103.205.133.19/hls/ichannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://4.bp.blogspot.com/-WBfphs9y5EU/V_n8vp8EWlI/AAAAAAAAEz8/c3Iy9VEgU0g2eVKYvdqzR0IZ2NoyN6ivwCLcB/s1600/channel-9.jpg" group-title="BANGLA",Channel 9
-http://103.205.133.19/hls/ninechannel.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 23" tvg-logo="http://channel23.tv/wp-content/uploads/2020/02/channel-23.png" group-title="BANGLA",CHANNEL 23
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL S" tvg-logo="https://mediaboxbd.com/wp-content/uploads/2020/09/Channel-S-500x500xct.png" group-title="BANGLA",CHANNEL S
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN BANGLA TV" tvg-logo="https://w7.pngwing.com/pngs/455/120/png-transparent-logo-brand-font-design.png" group-title="BANGLA",CAN BANGLA TV
 https://piratesiptv.shortcm.li/canbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DESH TV" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/s1600/desh-tv-2.jpg" group-title="BANGLA",DESH TV
@@ -32,8 +40,12 @@ http://103.205.133.19/hls/deeptotv.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTV BANGLA HD " tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ktv.jpg" group-title="BANGLA",KTV BANGLA HD 
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAASRANGA HD" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA",MAASRANGA HD
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="https://mytvbd.tv/wp-content/uploads/2021/05/MyTV_logo.png" group-title="BANGLA",My TV HD
 http://103.205.133.19/hls/mytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA" tvg-logo="https://tv.bdtype.com/uploads/tv_image/my-cinema.png" group-title="BANGLA",MY CINEMA
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="BANGLA",Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="BANGLA",NAGORIK TV
@@ -42,7 +54,7 @@ https://piratesiptv.shortcm.li/nagorik.m3u8
 https://piratesiptv.shortcm.li/ntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NANDAN TV" tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="BANGLA",NANDAN TV
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
-#EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg" group-title="BANGLA",NRB
+#EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg" group-title="BANGLA",NRB HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="BANGLA",RTV
 http://103.205.133.19/hls/rtv.m3u8
@@ -56,16 +68,22 @@ http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
                                                                     " BANGLA NEWS "
                                                                     
 
+#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA NEWS",ATN NEWS
+https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" group-title="BANGLA NEWS",CHANNEL 24
 http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="BANGLA NEWS",DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA NEWS",EKATTOR TV
 https://piratesiptv.shortcm.li/ekatoor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT NEWS" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA NEWS",INDEPENDENT NEWS
+https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV	" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLA NEWS",JAMUNA TV	
 https://piratesiptv.shortcm.li/jamuna.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="https://bdiptv.stream/uploads/tv_image/news-24.png" group-title="BANGLA NEWS",News 24
 http://103.205.133.19/hls/news24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://megaflix.tv/uploads/tv_image/somoy-tv.png" group-title="BANGLA NEWS",SOMOY TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
                                                                      
                                                                      
                                                                      
@@ -317,8 +335,12 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
                                                                          "MUSIC"
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ATN MUSIC" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="MUSIC",ATN MUSIC
+https://rhridoy136.shortcm.li/atnmusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GAAN BANGLA HD" tvg-logo="https://1.bp.blogspot.com/-5Gvpy5DsstU/X7kf6ZZ2idI/AAAAAAAAA7Q/I-sJBwG1SVkojbmk05YmQorGb6nEoWlgACPcBGAYYCw/w800/Gaan-Bangla-TV-Live.png" group-title="MUSIC",GAAN BANGLA HD
 https://piratesiptv.shortcm.li/gaanbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV MUSIC" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="MUSIC",RTV MUSIC
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="" group-title="MUSIC",Dhoom Music
 http://103.205.133.19/hls/dhoommusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="MUSIC",Sangeet Bangla

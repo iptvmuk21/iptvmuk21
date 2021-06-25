@@ -123,6 +123,24 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 
 
+                                                            " BANGLA RADIO "
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="BANGLA RADIO",Radio Foorti (88.0)
+http://119.148.23.88:1021/;?@IPTVSoltuion
+#EXTINF:-1 tvg-id="" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="BANGLA RADIO",ABC Radio(89.2)
+http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
+#EXTINF:-1 tvg-id="" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="BANGLA RADIO",Radio Today(89.6)
+http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
+#EXTINF:-1 tvg-id="" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="BANGLA RADIO",Dhaka FM (90.4)
+http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
+#EXTINF:-1 tvg-id="" tvg-name="Radio Goongoon" tvg-logo="" group-title="BANGLA RADIO",Radio Goongoon
+http://live.radiogoongoon.com:8888/stream/1/
+
+
+
+
                                                                     "NEWS"
 
 
@@ -161,82 +179,51 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 
 
-                                                                            "RADIO"
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="RADIO",Radio Foorti (88.0)
-http://119.148.23.88:1021/;?@IPTVSoltuion
-#EXTINF:-1 tvg-id="" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="RADIO",ABC Radio(89.2)
-http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
-#EXTINF:-1 tvg-id="" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="RADIO",Radio Today(89.6)
-http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-#EXTINF:-1 tvg-id="" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="RADIO",Dhaka FM (90.4)
-http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
-#EXTINF:-1 tvg-id="" tvg-name="Radio Goongoon" tvg-logo="" group-title="RADIO",Radio Goongoon
-http://live.radiogoongoon.com:8888/stream/1/
+                                                             
 
 
                                                                            
-                                                                           "SPORTS"
+                                                                  " SPORTS "
 
 
-#EXTINF:0,171.Sony Ten 1
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0,172.Sony Ten 2
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0,173.Sony Ten 3
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0,174.Sony Six HD
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/sony_six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0,175.Star Sports 1
-#EXTVLCOPT:network-caching=1000
-https://piratesiptv.shortcm.li/starsports1.m3u8
-#EXTINF:0,180.T Sports
-#EXTVLCOPT:network-caching=1000
-http://103.205.133.19/hls/tsports.m3u8
-#EXTINF:0,182.PTV Sports
-#EXTVLCOPT:network-caching=1000
-https://piratesiptv.shortcm.li/ptvsports.m3u8
-#EXTINF:0,182.PTV Sports
-#EXTVLCOPT:network-caching=1000
-http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
-#EXTINF:0,183.AD Sports 1
-#EXTVLCOPT:network-caching=1000
-https://piratesiptv.shortcm.li/adsports1.m3u8
-#EXTINF:0,183.AD Sports 2
-#EXTVLCOPT:network-caching=1000
-https://piratesiptv.shortcm.li/adsports2.m3u8
-#EXTINF:0,189.Super Sports 1
-#EXTVLCOPT:network-caching=1000
-http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:0,189.Super Sports 2
-#EXTVLCOPT:network-caching=1000
-http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:0,189.Super Sports 3
-#EXTVLCOPT:network-caching=1000
-http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:0,189.Super Sports 4
-#EXTVLCOPT:network-caching=1000
-http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:0,189.Super Sports 5
-#EXTVLCOPT:network-caching=1000
-http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:0,189.Super Sports 6
-#EXTVLCOPT:network-caching=1000
-http://93.157.62.180/Supersport6/index.m3u8
-#EXTINF:0,189.Super Sports 7
-#EXTVLCOPT:network-caching=1000
-http://93.157.62.180/Supersport7/index.m3u8
-#EXTINF:0,190.Willow HD
-#EXTVLCOPT:network-caching=1000
-https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-SPORTS
 http://103.205.133.19/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="SPORTS",Sony Ten 2 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="" group-title="SPORTS",Sony SIX
+https://streamer-1.toffeelive.com/mobile_hls/sony_six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS-1" tvg-logo="" group-title="SPORTS",STAR SPORTS-1
+https://piratesiptv.shortcm.li/starsports1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="" group-title="SPORTS",PTV Sports
+https://piratesiptv.shortcm.li/ptvsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="" group-title="SPORTS",PTV Sports
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1" tvg-logo="" group-title="SPORTS",AD Sports 1
+https://piratesiptv.shortcm.li/adsports1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2" tvg-logo="" group-title="SPORTS",AD Sports 2
+https://piratesiptv.shortcm.li/adsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 1" tvg-logo="" group-title="SPORTS",Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="" group-title="SPORTS",Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 3" tvg-logo="" group-title="SPORTS",Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 4" tvg-logo="" group-title="SPORTS",Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 5" tvg-logo="" group-title="SPORTS",Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 6" tvg-logo="" group-title="SPORTS",Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 7" tvg-logo="" group-title="SPORTS",Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="" group-title="SPORTS",Willow HD
+https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT1(EURO 2020)" tvg-logo="" group-title="SPORTS",TRT1(EURO 2020)
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT3 EURO 2020" tvg-logo="" group-title="SPORTS",TRT3 EURO 2020

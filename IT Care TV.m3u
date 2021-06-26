@@ -111,17 +111,27 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BANGLA INDIA",Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text-thumbnail.png" group-title="BANGLA INDIA",Ruposhi Bangla
-http://103.205.133.19/hls/ruposhibangla.m3u8	
+#EXTINF:0 tvg-logo="" group-title="BANGLA INDIA",DD Bangla
+https://piratesiptv.shortcm.li/dd.m3u8
+#EXTINF:0 tvg-logo="" group-title="BANGLA INDIA",Enter 10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png/revision/latest/top-crop/width/300/height/300?cb=20190224050939" group-title="BANGLA INDIA",Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
+#EXTINF:0 tvg-logo="" group-title="BANGLA INDIA",Khusboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text-thumbnail.png" group-title="BANGLA INDIA",Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Sun_Bangla.jpg" group-title="BANGLA INDIA",Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BANGLA INDIA",Zee Bangla
 http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA INDIA",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+
+
+
+
 
 
 
@@ -381,6 +391,108 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="HINDI",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:0,Sony [1]
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.19/hls/chs.m3u8
+#EXTINF:0,Star Plus [1]
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.19/hls/chsp.m3u8
+#EXTINF:0,138.Sony TV
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.19/hls/chs.m3u8
+#EXTINF:0,138.Sony TV HD
+#EXTVLCOPT:network-caching=1000
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:0,142.Sony Pix
+#EXTVLCOPT:network-caching=1000
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:0,145.Star Gold HD
+#EXTVLCOPT:network-caching=1000
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0,145.Star Gold HD 2
+#EXTVLCOPT:network-caching=1000
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0,148.Star Movies HD
+#EXTVLCOPT:network-caching=1000
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:0,149.Star Plus
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.19/hls/chsp.m3u8
+#EXTINF:0,150.UTV Action
+#EXTVLCOPT:network-caching=1000
+http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0,210.Rakuten TV
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Mohona TV [1]
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.19/hls/mohonatv.m3u8#EXTINF:0,Sony Aath [1]
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:0,Sony Aath [1]
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:0, Bangla TV
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/bangla_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Akash Aath
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/akash_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Sony Aath
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Sony Entertainment HD
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainmnt_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Sony Max SD
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Sony Max HD
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Sony Max 2
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Sony Sab HD
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/sony_sab_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/animal_planet_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Colors Infinity HD
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/colors_infinity_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Discovery
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Sony Pix HD
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, TLC HD
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/tlc_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Discovery Kids
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Nick Bangla
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Nick Junior
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0, Sonic Nickeloden
+#EXTVLCOPT:network-caching=1000
+https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0,Dove Channel
+#EXTVLCOPT:network-caching=1000
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:0,Duck TV
+#EXTVLCOPT:network-caching=1000
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 
 

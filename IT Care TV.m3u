@@ -91,6 +91,8 @@ http://103.205.133.19/hls/dbcnews.m3u8
 https://piratesiptv.shortcm.li/ekatoor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT NEWS" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA NEWS",INDEPENDENT NEWS
 https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="BANGLA NEWS",Independent News
+http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV	" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLA NEWS",JAMUNA TV	
 https://piratesiptv.shortcm.li/jamuna.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="https://bdiptv.stream/uploads/tv_image/news-24.png" group-title="BANGLA NEWS",News 24
@@ -506,15 +508,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Independent News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="Bangla",Independent News
-http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Arabica Music" tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="Music",Arabica Music HD
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel [V]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel [V]
-rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+
+
 
 
 
@@ -525,6 +523,8 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Arabica Music" tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="MUSIC",Arabica Music HD
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="" group-title="MUSIC",Dhoom Music
 http://103.205.133.19/hls/dhoommusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9xM SD
@@ -545,6 +545,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="MUSIC",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel [V]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="MUSIC",Channel [V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
 
 

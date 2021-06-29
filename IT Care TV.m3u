@@ -91,7 +91,7 @@ http://103.205.133.19/hls/dbcnews.m3u8
 https://piratesiptv.shortcm.li/ekatoor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT NEWS" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA NEWS",INDEPENDENT NEWS
 https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="BANGLA NEWS",Independent News
+#EXTINF:-1 tvg-id="" tvg-name="Independent News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="BANGLA NEWS",Independent News
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV	" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLA NEWS",JAMUNA TV	
 https://piratesiptv.shortcm.li/jamuna.m3u8
@@ -578,7 +578,7 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RFaKvuN86Gk-8VJ-CvQpng51VKqwh1xd1mFKo-50M26UySZ5t5DcqYMu&s=10" group-title="MOVIES",UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/utvaction.jpg" group-title="MOVIES" ,Utv Action HD
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/utvaction.jpg" group-title="MOVIES" ,UTV Action HD
 http://103.81.104.118/hls/stream7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WoW CINEMA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="MOVIES",WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8

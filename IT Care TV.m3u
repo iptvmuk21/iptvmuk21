@@ -350,36 +350,45 @@ http://103.205.133.19/hls/peacetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AKARAM KIDZ" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="KIDS",AKARAM KIDZ
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://www.pngkit.com/png/detail/306-3060218_aniplus-aniplus-logo-png.png" group-title="KIDS",ANIPLUS
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Baby First" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS",Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CN ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="KIDS",CN ARABIC
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS",SPACETOON
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CARTOON" tvg-logo="http://clipart-library.com/images_k/disney-transparent-logo/disney-transparent-logo-20.png" group-title="KIDS",DISNEY CARTOON
-http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://www.pngkit.com/png/full/148-1483809_boomerang-hd-boomerang-channel-logo-2017.png" group-title="KIDS",BOOMERANG
-https://piratesiptv.shortcm.li/boom.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/198px-Sony_Yay_Logo.jpg" group-title="KIDS",SONY YAY BANGLA
-https://piratesiptv.shortcm.li/sonyyay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR." tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/nickjr_logo-768x768.png" group-title="KIDS",NICK JR.
-https://piratesiptv.shortcm.li/nickjr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAJED" tvg-logo="https://television-planet.tv/uploads/posts/2019-08/1566745585_56442028_1267409060089890_5752204430577500160_n.jpg" group-title="KIDS",MAJED
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS",ANIMAX
 https://piratesiptv.shortcm.li/animax.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_kids.png?9Tpyxz8Ik7Uc2HLzbkPo3KgJbuQ3tgrX&itok=kOfm7AMO" group-title="KIDS",EBS
-https://piratesiptv.shortcm.li/ebs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT Cocuk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-f_IR7ugGcITN4N3SQd9Ve2llFxKhotM8zciWR8qDvkI_yfFCYJIsAgbmYACzfHSX7c&usqp=CAU" group-title="KIDS" ,TRT Cocuk
-https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="KIDS" ,Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://www.pngkit.com/png/detail/306-3060218_aniplus-aniplus-logo-png.png" group-title="KIDS",ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Magic.jpg" group-title="KIDS" ,Big Magic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="KIDS" ,Lale
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://www.pngkit.com/png/full/148-1483809_boomerang-hd-boomerang-channel-logo-2017.png" group-title="KIDS",BOOMERANG
+https://piratesiptv.shortcm.li/boom.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CN ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="KIDS",CN ARABIC
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",Discovery Kids
+https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CARTOON" tvg-logo="http://clipart-library.com/images_k/disney-transparent-logo/disney-transparent-logo-20.png" group-title="KIDS",DISNEY CARTOON
+http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_kids.png?9Tpyxz8Ik7Uc2HLzbkPo3KgJbuQ3tgrX&itok=kOfm7AMO" group-title="KIDS",EBS
+https://piratesiptv.shortcm.li/ebs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="KIDS",Lale
 http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAJED" tvg-logo="https://television-planet.tv/uploads/posts/2019-08/1566745585_56442028_1267409060089890_5752204430577500160_n.jpg" group-title="KIDS",MAJED
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="Nick Bangla" tvg-logo="https://bdiptv.stream/uploads/tv_image/nick.png" group-title="KIDS",Nick Bangla
+https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR." tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/nickjr_logo-768x768.png" group-title="KIDS",NICK JR.
+https://piratesiptv.shortcm.li/nickjr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/nickjr_logo-768x768.png" group-title="KIDS",Nick Junior
+https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="KIDS" ,Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Nickeloden" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="KIDS",Sonic Nickeloden
+https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/198px-Sony_Yay_Logo.jpg" group-title="KIDS",SONY YAY BANGLA
+https://piratesiptv.shortcm.li/sonyyay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS",SPACETOON
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Cocuk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-f_IR7ugGcITN4N3SQd9Ve2llFxKhotM8zciWR8qDvkI_yfFCYJIsAgbmYACzfHSX7c&usqp=CAU" group-title="KIDS" ,TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
+
 
 
 
@@ -387,13 +396,27 @@ http://stream.atr.ua/lale//live/index.m3u8
                                                               " DOCUMENTERY "
                                                               
                                                               
-                                                              
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/animalplanent.jpg" group-title="DOCUMENTERY" ,Animal Planet HD Bangla
+https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD (English)" tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="DOCUMENTERY",Animal Planet HD (English)
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="DOCUMENTERY",Animal Planet
+https://streamer-1.toffeelive.com/mobile_hls/animal_planet_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/dis.png" group-title="DOCUMENTERY" ,Discovery HD Bangla
+http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="DOCUMENTERY",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="DOCUMENTERY",Discovery
+https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU" group-title="DOCUMENTERY",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/128-1286049_dove-channel-dove-channel-logo.png" group-title="DOCUMENTERY",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="DOCUMENTERY",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/Nat_Geo_HD.png" group-title="DOCUMENTERY" ,National Geographic HD Bangla
+http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,National Geographic
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,BBC Earth
@@ -404,8 +427,14 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,Travel XP HD
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="DOCUMENTERY", TLC HD
+https://streamer-1.toffeelive.com/mobile_hls/tlc_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTERY" ,TLC HD
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/travelxphd.jpg" group-title="DOCUMENTERY" ,Travelxp HD Bangla
+http://103.81.104.118/hls/stream37.m3u8
+
+
 
 
 
@@ -479,54 +508,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
-#EXTINF:0, Discovery Kids
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0, Nick Bangla
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0, Nick Junior
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0, Sonic Nickeloden
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-id="Lale.ua" tvg-name="Lale" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="Kids",Lale
-http://stream.atr.ua/lale//live/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Toffee Server", TLC HD
-https://streamer-1.toffeelive.com/mobile_hls/tlc_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0,Dove Channel
-#EXTVLCOPT:network-caching=1000
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:0,Duck TV
-#EXTVLCOPT:network-caching=1000
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:0,History 2
-#EXTVLCOPT:network-caching=1000
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:0, Animal Planet
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/animal_planet_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0, Discovery
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/dis.png" group-title="Documentary" ,Discovery HD Bangla
-http://103.81.104.118/hls/stream9.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/Nat_Geo_HD.png" group-title="Documentary" ,National Geographic HD Bangla
-http://103.81.104.118/hls/stream13.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/travelxphd.jpg" group-title="Documentary" ,Travelxp HD Bangla
-http://103.81.104.118/hls/stream37.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/animalplanent.jpg" group-title="Documentary" ,Animal Planet HD Bangla
-https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png" group-title="Documentary" ,TLC Hindi
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="Bangla",Independent
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 
@@ -541,12 +522,6 @@ http://103.81.104.118/hls/stream31.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-
-
-
-
-
-
 
 
 

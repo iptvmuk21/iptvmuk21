@@ -113,7 +113,7 @@ https://rhridoy136.shortcm.li/atnmusic.m3u8
 https://piratesiptv.shortcm.li/gaanbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV MUSIC" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="BANGLA MUSIC",RTV MUSIC
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8                                                                  
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="BANGLA MUSIC",Sangeet Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="BANGLA MUSIC",Sangeet Bangla
 http://103.205.133.19/hls/sangeetbangla.m3u8                                                                   
                                                                    
 
@@ -122,31 +122,31 @@ http://103.205.133.19/hls/sangeetbangla.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Sun_Bangla.jpg" group-title="BANGLA INDIA",ABP ANANDA
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ABP_Ananda.jpg/revision/latest?cb=20120724011213" group-title="BANGLA INDIA",ABP ANANDA
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://i.imgur.com/cempbxl.png" group-title="BANGLA INDIA", Akash Aath
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/03/04/akash%20Aath.jpg" group-title="BANGLA INDIA", Akash Aath
 https://streamer-1.toffeelive.com/mobile_hls/akash_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-id="" tvg-name="CALCUTTA NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Calcutta_news.png/revision/latest?cb=20210509114822" group-title="BANGLA INDIA",CALCUTTA NEWS
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BANGLA INDIA",Colors Bangla HD
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="BANGLA INDIA",Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:0 tvg-logo="" group-title="BANGLA INDIA",DD Bangla
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/DD_Bangla_3D_Logo.jpg/revision/latest/scale-to-width-down/235?cb=20190104055345" group-title="BANGLA INDIA",DD Bangla
 https://piratesiptv.shortcm.li/dd.m3u8
-#EXTINF:0 tvg-logo="" group-title="BANGLA INDIA",Enter 10 Bangla
+#EXTINF:0 tvg-logo="http://103.81.104.118/img/enter10bangla.jpg" group-title="BANGLA INDIA",Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/enter10bangla.jpg" group-title="BANGLA INDIA",Enterr10 Bangla
 http://103.81.104.118/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/jalsha_movies.jpg" group-title="BANGLA INDIA",Jalsha Movies HD
 http://103.81.104.118/hls/stream27.m3u8
-#EXTINF:0 tvg-logo="" group-title="BANGLA INDIA",Khusboo Bangla
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-5tGF6dQFsdM/X5rlfx1rudI/AAAAAAAABjM/YoV7bum8Xt4LIZau1c6faScovgIfTkkhgCLcBGAsYHQ/w800/images%2B%25281%2529.jpeg" group-title="BANGLA INDIA",Khusboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Khusbo tv" tvg-logo="https://1.bp.blogspot.com/-5tGF6dQFsdM/X5rlfx1rudI/AAAAAAAABjM/YoV7bum8Xt4LIZau1c6faScovgIfTkkhgCLcBGAsYHQ/w800/images%2B%25281%2529.jpeg " group-title="BANGLA INDIA",Khusbo tv
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text-thumbnail.png" group-title="BANGLA INDIA",Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA INDIA",Sony Aath
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA INDIA",Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA INDIA",Sony Aath
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA INDIA",Sony Aath
 https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png/revision/latest/top-crop/width/300/height/300?cb=20190224050939" group-title="BANGLA INDIA",Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
@@ -177,11 +177,11 @@ https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_cinema/5/04dfcf51f5f17bc
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="BANGLA RADIO",Radio Foorti (88.0)
+#EXTINF:-1 tvg-id="" tvg-name="Radio Foorti (88.0)" tvg-logo="https://cdn-profiles.tunein.com/s122537/images/logog.png?t=152691" group-title="BANGLA RADIO",Radio Foorti (88.0)
 http://119.148.23.88:1021/;?@IPTVSoltuion
-#EXTINF:-1 tvg-id="" tvg-name="ABC Radio(89.2)" tvg-logo="" group-title="BANGLA RADIO",ABC Radio(89.2)
+#EXTINF:-1 tvg-id="" tvg-name="ABC Radio(89.2)" tvg-logo="https://img.favpng.com/1/23/24/kawran-bazar-abc-radio-fm-broadcasting-internet-radio-bengali-png-favpng-rWfSVAabJUK8PqMdypf7DHAqx.jpg" group-title="BANGLA RADIO",ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
-#EXTINF:-1 tvg-id="" tvg-name="Radio Today(89.6)" tvg-logo="" group-title="BANGLA RADIO",Radio Today(89.6)
+#EXTINF:-1 tvg-id="" tvg-name="Radio Today(89.6)" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/MNLgzG9YyC.png" group-title="BANGLA RADIO",Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
 #EXTINF:-1 tvg-id="" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="BANGLA RADIO",Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion

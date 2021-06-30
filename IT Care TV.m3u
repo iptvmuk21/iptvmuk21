@@ -245,6 +245,17 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6bec3.png" group-title="SPORTS",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo"" group-title="SPORTS",Bein Sports
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo"" group-title="SPORTS",Bein Sports
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo"" group-title="SPORTS",Bein Sports
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo"" group-title="SPORTS",Bein Sports
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo"" group-title="SPORTS",Bein Sports
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8?hubtvapp.m3u8
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8?hubtvapp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 1" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934e3b33.png" group-title="SPORTS",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934d8aa9.png" group-title="SPORTS",Dubai Sports 2

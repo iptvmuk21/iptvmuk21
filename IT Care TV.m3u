@@ -319,6 +319,22 @@ https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
 
 
 
+                                                                              " ARABIC "
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya" tvg-logo="" group-title="ARABIC",Al Arabiya
+https://list.iptvcat.com/my_list/s/f898601dd41e9db60a7710cd6c52232b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Hayat" tvg-logo="" group-title="ARABIC",Al Hayat
+https://list.iptvcat.com/my_list/s/54893d0bc5ed4ea9169e13905c6f8e3b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moriom Tv" tvg-logo="" group-title="ARABIC",Moriom Tv
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Noor Dubai" tvg-logo="" group-title="ARABIC",Noor Dubai
+https://list.iptvcat.com/my_list/s/881f337b14aaa94ef5b7a2a0ff45ef1f.m3u8
+
+
+
+
 
 
 
@@ -460,6 +476,62 @@ https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS",Willow HD
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
+
+
+
+                                                             " SPORTS-2 "
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Sports 5
+https://list.iptvcat.com/my_list/s/6c9e613211840839eb869d412e313c38.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",TRING SPORT 1
+https://list.iptvcat.com/my_list/s/350d3fd091ca5962ee5e23efde908ee5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",ESPN 2 SD
+https://list.iptvcat.com/my_list/s/038ece751a89085081e84156145df5dd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",ESPN Brasil SD
+https://list.iptvcat.com/my_list/s/79183049d52ba756a1d1a7866f80b6e8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",ESPN
+https://list.iptvcat.com/my_list/s/85440916220a49166f787424ba9b2e33.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",FOX SPORTS 2
+https://list.iptvcat.com/my_list/s/b05d142aa005c1930ad0df3e429224a6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",FOX SPORTS 2 SD
+https://list.iptvcat.com/my_list/s/ec1b68cee08da750d78c8a3d98b9444b.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",FOX SPORTS
+https://list.iptvcat.com/my_list/s/1007abcd458ba421aefcacb166c7832c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORTV 2 SD
+https://list.iptvcat.com/my_list/s/cb268106ecab769dbbb18145bdc5c984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORTV 3 SD
+https://list.iptvcat.com/my_list/s/a534ae1595dacfc5320b89c1cfd94db1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORTV 3 SD
+https://list.iptvcat.com/my_list/s/f9b61083960c89212934422cf23b4b8e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Eurosport 1
+https://list.iptvcat.com/my_list/s/12bf3b3847e0d0f64430ef6415ebc6a5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Sport 2 HD CZ
+https://list.iptvcat.com/my_list/s/3eac3b93b945c12e5a7c265bfbde28c2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Sport 5 CZ
+https://list.iptvcat.com/my_list/s/7b4e2469efb51ccae76bcfe567f173de.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Auto Motor Sport HD
+https://list.iptvcat.com/my_list/s/4735912456f3f0030f484a561614c829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Sky Sport 9 [Match Time]
+https://list.iptvcat.com/my_list/s/438e2f23e47bcbf183531b026e3f6279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Digi Sport 3 HD
+https://list.iptvcat.com/my_list/s/588d7ba70355921171990560cf5275ef.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORT 5 GOLD olympic
+https://list.iptvcat.com/my_list/s/ee2f7592161513b7dc59522909da42fd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Ziggo voetball
+http://mains.services:2086/live/mikekoot/1757909/92901.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Eleven Sports 1 SD
+https://list.iptvcat.com/my_list/s/2f48b19c9bd3aeddb5621d0019519736.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Eleven Sports 3 SD
+https://list.iptvcat.com/my_list/s/d7098efd6ce7d1da0c1f93ee7e6a4b2e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Eleven Sports 4 SD
+https://list.iptvcat.com/my_list/s/fff9fb31f16ad55782e390bb4af19cfb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORT TV 3
+https://list.iptvcat.com/my_list/s/f77829bcdcad1624f8c5a8c52ea86ab6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORT TV 4
+https://list.iptvcat.com/my_list/s/e2d0ac7abf6fb7c2dbed8321337ba9c7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORT TV +
+https://list.iptvcat.com/my_list/s/0dba3e5114ec9540286bac670c9057f1.m3u8
 
 
 

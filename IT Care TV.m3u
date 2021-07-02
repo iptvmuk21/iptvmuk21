@@ -538,6 +538,8 @@ http://103.81.104.118/hls/stream15.m3u8
 http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="SPORTS" ,Star Sports Select HD 1
 http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sports
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super Sports 1" tvg-logo="" group-title="SPORTS",Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="" group-title="SPORTS",Super Sports 2
@@ -575,7 +577,10 @@ https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 
                                                              " SPORTS-2 "
 
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Net Sports2
+http://178.175.132.170:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORT TV 1HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1 TV HD" tvg-logo="" group-title="SPORTS",Sports 5
 https://list.iptvcat.com/my_list/s/6c9e613211840839eb869d412e313c38.m3u8
 #EXTINF:0 tvg-logo="" group-title="SPORTS-2",TRING SPORT 1

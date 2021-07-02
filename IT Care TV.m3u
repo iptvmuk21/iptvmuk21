@@ -1,8 +1,98 @@
+                                                        " HD "
+                                                        
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="HD",ATN Bangla
+http://103.81.104.118/hls/stream17.m3u8
+#EXTINF:0 tvg-logo="" group-title="HD",Channel I HD
+http://103.81.104.118/hls/stream18.m3u8
+#EXTINF:0 tvg-logo="" group-title="HD",Maasranga HD
+http://103.81.104.118/hls/stream20.m3u8
+Nagorik TV HD
+http://103.81.104.118/hls/stream24.m3u8
+Channel 24 HD
+http://103.81.104.118/hls/stream22.m3u8
+Somoy News HD
+http://103.81.104.118/hls/stream21.m3u8
+Aljajeera
+http://103.81.104.118/hls/stream35.m3u8
+BBC World News
+http://103.81.104.118/hls/stream36.m3u8
+Macca HD
+http://103.81.104.118/hls/stream33.m3u8
 
+Colors HD Bangla
+http://103.81.104.118/hls/stream28.m3u8
+Enterr10 HD Bangla
+http://103.81.104.118/hls/stream26.m3u8
+http://103.81.104.118/hls/stream30.m3u8
+Star Jalsa HD
+http://103.81.104.118/hls/stream31.m3u8
+Jalsa Movies HD
+http://103.81.104.118/hls/stream27.m3u8
+Zee Bangla HD
+Zee Bangla Cinema HD
+http://103.81.104.118/hls/stream29.m3u8
+
+
+Zoom
+http://103.81.104.118/hls/stream8.m3u8
+9XM
+http://103.81.104.118/hls/stream4.m3u8
+
+Nick HD
+http://103.81.104.118/hls/stream23.m3u8
+Pogo
+http://103.81.104.118/hls/stream5.m3u8
+Sony Yay Bangla HD
+http://103.81.104.118/hls/stream32.m3u8
+
+Animal Planet HD
+http://103.81.104.118/hls/stream6.m3u8
+Discovery HD Bangla
+http://103.81.104.118/hls/stream9.m3u8
+National Geographic HD bangla
+http://103.81.104.118/hls/stream13.m3u8
+Travel xp HD Bangla
+http://103.81.104.118/hls/stream37.m3u8
+
+PTV Sports
+http://103.81.104.118/hls/stream11.m3u8
+Sony Ten1 HD
+http://103.81.104.118/hls/stream40.m3u8
+Sony Ten2 HD
+http://103.81.104.118/hls/stream39.m3u8
+Sony Six HD
+http://103.81.104.118/hls/stream10.m3u8
+Star Sports 1HD Hindi
+http://103.81.104.118/hls/stream15.m3u8
+Star Sports Select 1HD
+http://103.81.104.118/hls/stream12.m3u8
+Ten Cricket
+http://103.81.104.118/hls/stream34.m3u8
+
+
+& Pictures HD
+http://103.81.104.118/hls/stream14.m3u8
+Star Plus HD
+http://103.81.104.118/hls/stream38.m3u8
+Star Gold HD
+http://103.81.104.118/hls/stream19.m3u8
+Zee Cinema HD
+http://103.81.104.118/hls/stream25.m3u8
+AXN
+http://103.81.104.118/hls/stream2.m3u8
+Star Movies
+http://103.81.104.118/hls/stream3.m3u8
+UTV Action
+http://103.81.104.118/hls/stream7.m3u8                                                        
 
 
                                                                                                                                                                                                    
 
+                                                                  
+                                                                  
+                                                                  
+                                                                  
                                                                   " BANGLA "
 
 
@@ -163,6 +253,8 @@ http://103.81.104.118/hls/stream31.m3u8
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="BANGLA INDIA",Zee Bangla
 http://103.205.133.19/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="BANGLA INDIA",Zee Bangla HD
+http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA INDIA",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA INDIA", Zee Bangla Cinema

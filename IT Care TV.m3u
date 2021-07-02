@@ -420,6 +420,8 @@ http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQt4SakVQpBtAmXPEpEt8NzXBLK8Q0q4kDPKA&usqp=CAU" group-title="SPORTS",DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="SPORTS",FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 HD" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png" group-title="SPORTS",FOX SPORT 2 HD
@@ -482,11 +484,11 @@ https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
                                                              " SPORTS-2 "
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Sports 5
+#EXTINF:0 tvg-logo="" group-title="SPORTS-2",Sports 5
 https://list.iptvcat.com/my_list/s/6c9e613211840839eb869d412e313c38.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",TRING SPORT 1
+#EXTINF:0 tvg-logo="" group-title="SPORTS-2",TRING SPORT 1
 https://list.iptvcat.com/my_list/s/350d3fd091ca5962ee5e23efde908ee5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",ESPN 2 SD
+#EXTINF:0 tvg-logo="" group-title="SPORTS-2",ESPN 2 SD
 https://list.iptvcat.com/my_list/s/038ece751a89085081e84156145df5dd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",ESPN Brasil SD
 https://list.iptvcat.com/my_list/s/79183049d52ba756a1d1a7866f80b6e8.m3u8

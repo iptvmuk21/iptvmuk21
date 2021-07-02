@@ -420,7 +420,7 @@ http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQt4SakVQpBtAmXPEpEt8NzXBLK8Q0q4kDPKA&usqp=CAU" group-title="SPORTS",DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="FOX 501 HD" tvg-logo="" group-title="SPORTS",FOX 501 HD
 http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="SPORTS",FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8

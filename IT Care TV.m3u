@@ -512,8 +512,6 @@ http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQt4SakVQpBtAmXPEpEt8NzXBLK8Q0q4kDPKA&usqp=CAU" group-title="SPORTS",DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX 501 HD" tvg-logo="" group-title="SPORTS",FOX 501 HD
-http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="SPORTS",FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 HD" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png" group-title="SPORTS",FOX SPORT 2 HD
@@ -571,12 +569,15 @@ https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ITV HD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/ITV-Logo.png" group-title="SPORTS",ITV HD
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS",Willow HD
-https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
+http://86.107.179.242:8080/WILLOW_HD_CA/tracks-v1a1/mono.m3u8
 
 
 
                                                              " SPORTS-2 "
 
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 501 HD" tvg-logo="" group-title="SPORTS-2",FOX 501 HD
+http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",NET Sports2
 http://178.175.132.170:8888/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORT TV 1HD
@@ -587,6 +588,12 @@ http://86.107.179.242:9097/CA_TSN_1/tracks-v1a1/mono.m3u8
 http://1.adnaraoun.xyz/live/6262622200/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Klub2
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Flow Sports 1
+http://198.144.149.201:8080/Flow_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SUPER SPORTS CRICKET
+http://198.144.149.199:8888/SUPER_SPORTS_CRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",ESPN
+http://198.144.149.201:8080/Espn_Caribbean/tracks-v1a1/mono.m3u8
 
 
 

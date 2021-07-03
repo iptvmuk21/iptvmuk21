@@ -537,22 +537,6 @@ http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="SPORTS" ,Star Sports Select HD 1
 http://103.81.104.118/hls/stream12.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 1" tvg-logo="" group-title="SPORTS",Super Sports 1
-http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="" group-title="SPORTS",Super Sports 2
-http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 3" tvg-logo="" group-title="SPORTS",Super Sports 3
-http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 4" tvg-logo="" group-title="SPORTS",Super Sports 4
-http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 5" tvg-logo="" group-title="SPORTS",Super Sports 5
-http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 6" tvg-logo="" group-title="SPORTS",Super Sports 6
-http://93.157.62.180/Supersport6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 7" tvg-logo="" group-title="SPORTS",Super Sports 7
-http://93.157.62.180/Supersport7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Sky_Two_logo_2020.svg/220px-Sky_Two_logo_2020.svg.png" group-title="SPORTS",Sky 2 HD
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-SPORTS
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-SPORTS
@@ -567,8 +551,7 @@ http://tv-trt3.live.trt.com.tr/master_720.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ITV HD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/ITV-Logo.png" group-title="SPORTS",ITV HD
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS",Willow HD
-http://86.107.179.242:8080/WILLOW_HD_CA/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -590,12 +573,30 @@ http://178.175.132.170:8888/03_skynetsport2_480p/chunklist.m3u8
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORT TV 1HD
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Sky Sports
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Sky Sports Cricket
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Sky_Two_logo_2020.svg/220px-Sky_Two_logo_2020.svg.png" group-title="SPORTS-2",Sky 2 HD
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SUPER SPORTS CRICKET
 http://198.144.149.199:8888/SUPER_SPORTS_CRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 1" tvg-logo="" group-title="SPORTS-2",Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="" group-title="SPORTS-2",Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 3" tvg-logo="" group-title="SPORTS-2",Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 4" tvg-logo="" group-title="SPORTS-2",Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 5" tvg-logo="" group-title="SPORTS-2",Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 6" tvg-logo="" group-title="SPORTS-2",Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 7" tvg-logo="" group-title="SPORTS-2",Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",TSN1
 http://86.107.179.242:9097/CA_TSN_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS-2",Willow HD
+http://86.107.179.242:8080/WILLOW_HD_CA/tracks-v1a1/mono.m3u8
 
 
 

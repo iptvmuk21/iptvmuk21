@@ -581,6 +581,13 @@ https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 http://178.175.132.170:8888/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SPORT TV 1HD
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",TSN1
+http://86.107.179.242:9097/CA_TSN_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Bein Sports Max
+http://1.adnaraoun.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Klub2
+http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
+
 
 
 

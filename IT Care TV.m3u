@@ -29,23 +29,18 @@ http://103.81.104.118/hls/stream30.m3u8
 http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",Jalsa Movies HD
 http://103.81.104.118/hls/stream27.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="HD",Zee Bangla Cinema HD
 http://103.81.104.118/hls/stream29.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="HD",Zoom
 http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",9XM
 http://103.81.104.118/hls/stream4.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="HD",Nick HD
 http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",Pogo
 http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",Sony Yay Bangla HD
 http://103.81.104.118/hls/stream32.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="HD",Animal Planet HD
 http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",Discovery HD Bangla
@@ -54,7 +49,6 @@ http://103.81.104.118/hls/stream9.m3u8
 http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",Travel xp HD Bangla
 http://103.81.104.118/hls/stream37.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="HD",PTV Sports
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",Sony Ten1 HD
@@ -69,8 +63,6 @@ http://103.81.104.118/hls/stream15.m3u8
 http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="HD",& Pictures HD
 http://103.81.104.118/hls/stream14.m3u8
 #EXTINF:0 tvg-logo="" group-title="HD",Star Plus HD

@@ -571,19 +571,19 @@ http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",SUPER SPORTS CRICKET
 http://198.144.149.199:8888/SUPER_SPORTS_CRICKET/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 1" tvg-logo="" group-title="SPORTS-2",Super Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 1" tvg-logo="" group-title="SPORTS-2",S sport news
 http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="" group-title="SPORTS-2",Super Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="" group-title="SPORTS-2",S2
 http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 3" tvg-logo="" group-title="SPORTS-2",Super Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 3" tvg-logo="" group-title="SPORTS-2",S3
 http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 4" tvg-logo="" group-title="SPORTS-2",Super Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 4" tvg-logo="" group-title="SPORTS-2",S2
 http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 5" tvg-logo="" group-title="SPORTS-2",Super Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 5" tvg-logo="" group-title="SPORTS-2",S
 http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 6" tvg-logo="" group-title="SPORTS-2",Super Sports 6
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 6" tvg-logo="" group-title="SPORTS-2",Super Sports football
 http://93.157.62.180/Supersport6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 7" tvg-logo="" group-title="SPORTS-2",Super Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 7" tvg-logo="" group-title="SPORTS-2",Super Sports football
 http://93.157.62.180/Supersport7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-2",TSN1
 http://86.107.179.242:9097/CA_TSN_1/tracks-v1a1/mono.m3u8

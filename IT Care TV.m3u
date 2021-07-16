@@ -3,10 +3,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="KIDS", Duronto TV
 https://aslive.club/cn/kids/duronto/chunks.m3u8
-
-
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/V7DWiW2",IPTV BY ASLIVE
-https://i.imgur.com/V7DWiW2.png
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="BANGLA", Gazi TV
 https://aslive.club/cn/sports/gtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",T Sports
